@@ -1,1 +1,1 @@
-# NLP_Lab-NLP_Lab-3-n-gram-models
+# NLP_Lab-3-n-gram-models
